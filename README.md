@@ -1,6 +1,6 @@
 # Discovery Scripts
 
-Scripts for getting starting on Northeastern's high performance computing cluster
+Scripts for getting started on Northeastern's high performance computing cluster
 
 ## About Discovery
 
